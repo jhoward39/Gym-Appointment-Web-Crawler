@@ -43,7 +43,7 @@ driver.execute_script("arguments[0].click();", element)
 element = WebDriverWait(driver,35).until(
     EC.presence_of_element_located((By.ID, "password"))
     )
-element.send_keys("Giggidy1025")
+element.send_keys("*********")
 
 element = driver.find_element_by_id("btnBeforeLogin")
 driver.execute_script("arguments[0].click();", element)
