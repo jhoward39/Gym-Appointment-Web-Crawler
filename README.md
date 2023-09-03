@@ -1,7 +1,7 @@
 # Overview
 In the fall of 2021, Fordham University students were permitted back on campus even though there were no in-person classes held. My roommates and I were so desperate to get back to school that we would rather do our schooling in a three-bed, one-room, holding cell (which, oh by the way, used to be where the medicine students operated on cadavers) than stay home any longer. 
 
-At least the gym was open. One had to make an appointment for a 1:15 session and the slots were limited to 25ish people at a time. Appointment slots for the next day became available at noon and they filled up quickly. Here is where this project comes in.
+At least the gym was open, but if you wanted to go had to make an appointment and the slots were limited to 25ish people at a time. Appointment slots for the next day became available at noon and they filled up quickly. Here is where this project comes in.
 
 # Situation (functional spec)
 
