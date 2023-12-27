@@ -1,4 +1,4 @@
-## TLDR: My university's gym-mandated appointments during COVID-19 Pandemic. Spots were competitive. This bot sniped the appointments. 
+# TLDR: My university's gym-mandated appointments during COVID-19 Pandemic. Spots were competitive. This bot sniped the appointments. 
 
 # Overview
 In the fall of 2021, Fordham University students were permitted back on campus even though there were no in-person classes held. My roommates and I were so desperate to get back to school that we would rather do our schooling in a three-bed, one-room, holding cell (which, oh by the way, used to be where the medicine students operated on cadavers) than stay home any longer. 
