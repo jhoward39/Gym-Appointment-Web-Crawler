@@ -11,7 +11,7 @@ Nicole, like me, was a Fordham University student who decided that going to the 
 
 # Did it work?
 
-Hell yes. This was an incredibly rewarding project because at the end of the day, it worked. It was janky, it was stanky, but it was the first time I coded in Python. Soon enough, my friends were asking to schedule their appointments, and I had 5-6 scripts scheduled for each person in cron. The total runtime was 15-20 seconds. I thought this would be too slow but as it turns out, it takes a human doing it as fast as they can over 55 seconds to navigate through the several screens and fill out the form. My bot beat them. every. time. 
+Hell yes. This was an incredibly rewarding project because at the end of the day, it worked. It was janky, it was stanky, but it was the first time I coded in Python. Soon enough, my friends were asking to schedule their appointments, and I had 5-6 scripts scheduled for each person in cron. The total runtime was 15-20 seconds. I thought this would be too slow but as it turns out, it takes a human over 55 seconds to navigate through the several screens and fill out the appointment form. My bot beat them. every. time. 
 
 # Reflections
 I would keep much better documentation. I know at one point I had a video of it running, but it was lost to the ether somehow and I desperately want it back. Even now, this readme is being written 2+ years after the script was retired and it should have been done then. This project was so long ago that I'm sure if you asked me then what I would change when I made it I would have a lot more to say, but now I look back on it with nothing but fond memories. 
